@@ -13,5 +13,5 @@ Este arquivo é só um exemplo para demostrar como clonar um repositório no git
 
 -[X] Clonar do seu repositório https://github.com/{meuusuario}/gittutor-adar no meu computador local com o RStudio.
 
--[ ] Fazer uma alteração neste readme, comitar e fazer um push do seu repo local para o repo remoto.  
+-[X] Fazer uma alteração neste readme, comitar e fazer um push do seu repo local para o repo remoto.  
 
